@@ -161,7 +161,7 @@
     },
     {
       phase: 'Para gerir · 1 de 2',
-      title: 'Sucesso do Franqueado',
+      title: 'Sucesso do Licenciado',
       desc: 'Acompanhamento de indicadores da loja, análise concorrencial e evolução do mix de serviços.',
       practice: 'Consultoria contínua para sua unidade performar acima da média do mercado.'
     },
@@ -271,7 +271,7 @@
       const mensagem = String(data.get('mensagem') || '').trim();
 
       const lines = [
-        'Olá! Gostaria de receber informações sobre a Franquia Auto Visão.',
+        'Olá! Gostaria de receber informações para fazer parte da Rede Auto Visão (Licenciamento de Marca).',
         '',
         `*Nome:* ${nome}`,
         `*WhatsApp:* ${whatsapp}`,
