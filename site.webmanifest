@@ -1,0 +1,21 @@
+{
+  "name": "Auto Visão Franchising — Seja um Franqueado",
+  "short_name": "Auto Visão",
+  "description": "Abra sua franquia de vistoria veicular com a Auto Visão. Mais de 15 anos de mercado, +240 lojas, +18 estados e +80 mil laudos por mês.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#ED3237",
+  "icons": [
+    {
+      "src": "assets/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "assets/img/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
