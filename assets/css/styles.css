@@ -250,7 +250,7 @@ button { font: inherit; cursor: pointer; border: 0; background: none; }
   align-items: center;
   justify-content: space-between;
   gap: 20px;
-  height: 74px;
+  height: 82px;
 }
 
 .brand-logo { display: inline-flex; align-items: center; flex-shrink: 0; }
